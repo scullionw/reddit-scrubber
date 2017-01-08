@@ -1,0 +1,1 @@
+credentials = {'USERNAME':'example', 'PASSWORD':'example', 'CLIENT_ID':'example', 'CLIENT_SECRET':'example'}
